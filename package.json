@@ -1,0 +1,16 @@
+{
+    "name": "nodejs-demo",
+    "version": "1.0.0",
+    "description": "nodejs demo",
+    "author": "Nilesh Joshi",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+      "nodejs",
+      "bootstrap",
+      "express"
+    ],
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
